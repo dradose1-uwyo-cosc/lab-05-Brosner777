@@ -102,7 +102,7 @@ for num in max_temps:
 print(f"Max temp = {max_temp}")
 min_temp=min_temps[0]
 for num in min_temps:
-    if num > min_temp:
+    if num < min_temp:
         min_temp = num
 print(f"Min temp = {min_temp}")
 
