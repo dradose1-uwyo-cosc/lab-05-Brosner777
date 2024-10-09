@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Braxton]
+## [Lab 5]
+## [10/09/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Python Crash Course: Found clarification on using +=
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* N/A
